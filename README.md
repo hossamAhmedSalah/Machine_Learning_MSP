@@ -20,6 +20,7 @@ MSP 23 workshop of machine learning
 | Logistic Regression | [Task notebook🗒️](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_3/session3_task.ipynb)    [Task dataset📅](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_3/healthcare-dataset-stroke-data.csv) | [Slides_3](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_3/Logistic%20Regression.pptx) | [Logistic notebook](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_3/logistic-regression-msp.ipynb)|
 | Decision Tree🌳  | No Task 🏖️ just notes on notion | [Slides_4](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_4/slide5.pdf) | [Decision Tree notebook](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_4/decision-tree-msp.ipynb)|
 |Ensemble Learning| Form Teams | [Slides_5](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_5/slide6.pdf) |[Ensemble notebook](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_5/ensemble-learning-msp.ipynb) |
+| Unsupervised Learning  | Choose the challenge | [slides_6](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_6/slide7.pdf) | [UnsuperVised Learning notebook](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_6/ica-pca-k-means-msp.ipynb)|
 |  |  |  | |
 
 
