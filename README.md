@@ -21,6 +21,7 @@ MSP 23 workshop of machine learning
 | Decision Tree🌳  | No Task 🏖️ just notes on notion | [Slides_4](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_4/slide5.pdf) | [Decision Tree notebook](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_4/decision-tree-msp.ipynb)|
 |Ensemble Learning| Form Teams | [Slides_5](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_5/slide6.pdf) |[Ensemble notebook](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_5/ensemble-learning-msp.ipynb) |
 | Unsupervised Learning  | Choose the challenge | [slides_6](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_6/slide7.pdf) | [UnsuperVised Learning notebook](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_6/ica-pca-k-means-msp.ipynb)|
+| Artificial Neural Networks (ANN) | Mission Completed✅ | [Slides_7](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_7/Slides8.pdf) | [ANN notebook](https://github.com/hossamAhmedSalah/Machine_Learning_MSP/blob/main/session_7/artifitial-neural-networks-msp.ipynb)|
 |  |  |  | |
 
 
