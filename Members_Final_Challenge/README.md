@@ -4,6 +4,6 @@
 | Team_1 | Rawan Hamdy , Tasnim Ahmed, Habiba Motaz | [Breast Cancer](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) |  |
 | Team_2  | Sohaila, Basmala Mohamed Yonis, Salma ashraf abdelhamid | [Titanic](https://www.kaggle.com/competitions/titanic) | [code](https://colab.research.google.com/drive/1RFVwUUQLg4IvSvNgeVrsJ9tzQxZ7KwRn?usp=sharing)  |
 | Team_3 | Sandy Sherif Zakhary, Yara Mohamed Attia | [Titanic](https://www.kaggle.com/competitions/titanic) | [code](https://www.kaggle.com/code/sandysherif/titanic-model) |
-| Power Girls | منة الله هرمس مصطفي محمد, نورهان فؤاد محمد أبو سريع   ,                      منة الله منصور السيد | [Breast Cancer](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) |  |
+| Power Girls | منة الله هرمس مصطفي محمد, نورهان فؤاد محمد أبو سريع   ,                      منة الله منصور السيد | [Breast Cancer](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) | [code](https://www.kaggle.com/code/menamansour/cancer-breast) |
 |  |  |  |  |
 |  |  |  |  |
